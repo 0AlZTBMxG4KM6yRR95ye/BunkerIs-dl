@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BunkerIs-dl": {
+      "commandName": "Project",
+      "commandLineArgs": "http://bunkr.is/a/AdgjAS8h"
+    }
+  }
+}
