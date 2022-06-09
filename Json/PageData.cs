@@ -32,7 +32,7 @@ namespace BunkerIs_dl.Json
         public string Name { get; set; }
 
         [JsonProperty("size")]
-        public string Size { get; set; }
+        public long Size { get; set; }
 
         [JsonProperty("timestamp")]
         public int Timestamp { get; set; }
